@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Documentos\Programação\C# - Nélio\Programas\Mod - 01\pr\pr\bin\Debug\net8.0\pr.exe
+C:\Users\gusta\OneDrive\Documentos\Programação\C# - Nélio\Programas\Mod - 01\pr\pr\bin\Debug\net8.0\pr.deps.json
+C:\Users\gusta\OneDrive\Documentos\Programação\C# - Nélio\Programas\Mod - 01\pr\pr\bin\Debug\net8.0\pr.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Programação\C# - Nélio\Programas\Mod - 01\pr\pr\bin\Debug\net8.0\pr.dll
+C:\Users\gusta\OneDrive\Documentos\Programação\C# - Nélio\Programas\Mod - 01\pr\pr\bin\Debug\net8.0\pr.pdb
+C:\Users\gusta\OneDrive\Documentos\Programação\C# - Nélio\Programas\Mod - 01\pr\pr\obj\Debug\net8.0\pr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Programação\C# - Nélio\Programas\Mod - 01\pr\pr\obj\Debug\net8.0\pr.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Programação\C# - Nélio\Programas\Mod - 01\pr\pr\obj\Debug\net8.0\pr.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Programação\C# - Nélio\Programas\Mod - 01\pr\pr\obj\Debug\net8.0\pr.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Programação\C# - Nélio\Programas\Mod - 01\pr\pr\obj\Debug\net8.0\pr.dll
+C:\Users\gusta\OneDrive\Documentos\Programação\C# - Nélio\Programas\Mod - 01\pr\pr\obj\Debug\net8.0\refint\pr.dll
+C:\Users\gusta\OneDrive\Documentos\Programação\C# - Nélio\Programas\Mod - 01\pr\pr\obj\Debug\net8.0\pr.pdb
+C:\Users\gusta\OneDrive\Documentos\Programação\C# - Nélio\Programas\Mod - 01\pr\pr\obj\Debug\net8.0\pr.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Programação\C# - Nélio\Programas\Mod - 01\pr\pr\obj\Debug\net8.0\ref\pr.dll
